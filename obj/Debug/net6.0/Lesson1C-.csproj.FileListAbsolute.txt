@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\obj\Debug\net6.0\Lesson1C-.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\obj\Debug\net6.0\Lesson1C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\obj\Debug\net6.0\Lesson1C-.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\obj\Debug\net6.0\Lesson1C-.AssemblyInfo.cs
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\obj\Debug\net6.0\Lesson1C-.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\bin\Debug\net6.0\Lesson1C-.exe
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\bin\Debug\net6.0\Lesson1C-.deps.json
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\bin\Debug\net6.0\Lesson1C-.runtimeconfig.json
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\bin\Debug\net6.0\Lesson1C-.dll
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\bin\Debug\net6.0\Lesson1C-.pdb
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\obj\Debug\net6.0\Lesson1C-.dll
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\obj\Debug\net6.0\refint\Lesson1C-.dll
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\obj\Debug\net6.0\Lesson1C-.pdb
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\obj\Debug\net6.0\Lesson1C-.genruntimeconfig.cache
+C:\Users\acer\Desktop\Lesson2C\Lesson1C-\obj\Debug\net6.0\ref\Lesson1C-.dll
