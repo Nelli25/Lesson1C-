@@ -17,24 +17,24 @@ Console.WriteLine("Вторая цифра вашего числа:  " + str[1])
 
 Console.WriteLine("Введите число: ");
 string number = Console.ReadLine();
-// int a = Convert.ToInt32(first);
-// int num = new Random().Next(100, 1000);
 string str1 = Convert.ToString(number);
-if (str1[2] != 0)
-Console.WriteLine("Вторая цифра вашего числа:  " + str1[2]);
+int lgt = str1!.Length;
+// Console.WriteLine(str1!.Length);
+if (lgt > 2)
+Console.WriteLine("Третья цифра вашего числа:  " + str1[2]);
 else
 Console.WriteLine("Третьей цифры нет");
-    
 
 
-// Console.WriteLine("Введите первое число: ");
-// string first = Console.ReadLine();
-// int a = Convert.ToInt32(first);
-
-
-
-
-// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, 
+// и проверяет, является ли этот день выходным.
 // 6 -> да
 // 7 -> да
 // 1 -> нет
+
+int numday = new Random().Next(1, 7);
+Console.WriteLine(numday);
+if (numday == 6 || numday == 7)
+Console.WriteLine("Да");
+else
+Console.WriteLine("Нет");
